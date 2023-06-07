@@ -12,7 +12,7 @@
 
 📃Dashboard
 ---
-![Dashboard 1](https://github.com/reema08/Tableau-Project/assets/109653833/acab4c51-7406-42e6-9e85-512753586ada)
+<image src="https://github.com/reema08/Tableau-Project/assets/109653833/acab4c51-7406-42e6-9e85-512753586ada" width="80" hight="80" />
 
 <image src="https://github.com/reema08/Tableau-Project/assets/109653833/fe4d5e04-8637-4f22-ae92-08978b64d74f" width="80" hight="80" /> Google Drive Link :
 ---
